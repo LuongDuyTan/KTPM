@@ -1,0 +1,14 @@
+com\inventorymanagementsystem\config\Database.class
+com\inventorymanagementsystem\LoginController.class
+com\inventorymanagementsystem\DashboardController.class
+com\inventorymanagementsystem\entity\Product.class
+com\inventorymanagementsystem\Application.class
+com\inventorymanagementsystem\entity\User.class
+module-info.class
+com\inventorymanagementsystem\entity\Billing.class
+com\inventorymanagementsystem\entity\Customer.class
+com\inventorymanagementsystem\entity\Invoice.class
+com\inventorymanagementsystem\app\Launcher.class
+com\inventorymanagementsystem\BillsController.class
+com\inventorymanagementsystem\entity\Sales.class
+com\inventorymanagementsystem\entity\Purchase.class
